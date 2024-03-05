@@ -2,7 +2,13 @@
   "dependencies": {
     "@react-navigation/native": "^6.1.14",
     "@react-navigation/stack": "^6.3.25",
+    "gitignore": "^0.7.0",
+    "native-base": "^3.4.28",
+    "react-native-elements": "^3.4.3",
+    "react-native-paper": "^5.12.3",
     "react-native-safe-area-context": "^4.9.0",
-    "react-native-screens": "^3.29.0"
+    "react-native-screens": "^3.29.0",
+    "redux": "^5.0.1",
+    "stylesheet": "^0.9.1"
   }
 }
